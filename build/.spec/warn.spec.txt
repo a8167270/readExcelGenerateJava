@@ -1,0 +1,22 @@
+missing module named resource - imported by posix, E:\PycharmProjects\createCode\main.py
+missing module named posix - imported by os, E:\PycharmProjects\createCode\main.py
+missing module named _posixsubprocess - imported by subprocess, E:\PycharmProjects\createCode\main.py
+missing module named 'org.python' - imported by pickle, E:\PycharmProjects\createCode\main.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, E:\PycharmProjects\createCode\main.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, E:\PycharmProjects\createCode\main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, E:\PycharmProjects\createCode\main.py
+missing module named _winreg - imported by platform, E:\PycharmProjects\createCode\main.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, E:\PycharmProjects\createCode\main.py
+missing module named 'java.lang' - imported by platform, E:\PycharmProjects\createCode\main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, E:\PycharmProjects\createCode\main.py
+missing module named termios - imported by tty, E:\PycharmProjects\createCode\main.py, getpass
+missing module named grp - imported by tarfile, shutil, E:\PycharmProjects\createCode\main.py
+missing module named org - imported by copy, E:\PycharmProjects\createCode\main.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, E:\PycharmProjects\createCode\main.py, netrc, getpass
+missing module named ce - imported by os, E:\PycharmProjects\createCode\main.py
+missing module named _dummy_threading - imported by dummy_threading, E:\PycharmProjects\createCode\main.py
+missing module named elementtree - imported by xlrd.xlsx
+missing module named cElementTree - imported by xlrd.xlsx
+missing module named cStringIO - imported by xlrd.timemachine
+missing module named copy_reg - imported by cStringIO
